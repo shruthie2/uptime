@@ -2,7 +2,6 @@
 owner: shruthie2  # Your GitHub username
 repo: uptime       # Repository name should match your actual repo
 
-# List of websites to monitor
 sites:
   - name: shruthiprom1
     url: https://shruthiprom1.glitch.me
@@ -114,13 +113,6 @@ notifications:
       schedule: "daily" # Options: 'live', 'daily', 'weekly'
       notificationText: "Some sites on $OWNER/$REPO are experiencing downtime"
       recipient: "dodieajt@gmail.com"  # Add your email here to enable notifications
-
-# Issue assignments
-assignees:
-  - shruthie2
-
-# Custom checks (optional)
-user-agent: "upptime-bot"
 
 # Security headers (optional, HSTS configuration)
 commitMessages:
