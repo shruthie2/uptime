@@ -6,7 +6,6 @@ repo: uptime       # Repository name should match your actual repo
 sites:
   - name: shruthiprom1
     url: https://shruthiprom1.glitch.me
-    maxResponseTime: 5000  # Optional: alert when response time exceeds 5s
   - name: kavyaprom1
     url: https://kavyaprom1.glitch.me
   - name: snehaProm1
@@ -141,3 +140,18 @@ commitMessages:
 
 # API and badge options
 badgeUrl: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/$OWNER/$REPO/master/api/uptime.json
+
+httpConfig:
+  timeout: 30000              # Request timeout in milliseconds
+  retries: 3                  # Number of retries on failure
+  delayBetweenRetries: 2000   # Delay between retries in milliseconds
+
+# Custom status codes handling
+successStatuses:
+  - 200-299                  # Default success range
+  - 429                      # Rate limiting is not considered downtime
+
+# Rate limiting protection
+rateLimiting:
+  enabled: true
+  maxRequests: 60            # Maximum requests per minute
