@@ -3,22 +3,131 @@ owner: shruthie2 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: shruthiprom1
+    url: https://shruthiprom1.glitch.me
+
+  - name: kavyaprom1
+    url: https://kavyaprom1.glitch.me
+
+  - name: snehaProm1
+    url: https://snehaProm1.glitch.me
+
+  - name: meghanaprom1
+    url: https://meghanaprom1.glitch.me
+
+  - name: ramyaprom01
+    url: https://ramyaprom01.glitch.me
+
+  - name: nidhiprom1
+    url: https://nidhiprom1.glitch.me
+
+  - name: sowmyaprom1
+    url: https://sowmyaprom1.glitch.me
+
+  - name: divyaprom1
+    url: https://divyaprom1.glitch.me
+
+  - name: keerthiprom1
+    url: https://keerthiprom1.glitch.me
+
+  - name: kavyaprom2
+    url: https://kavyaprom2.glitch.me
+
+  - name: arpithaprom1
+    url: https://arpithaprom1.glitch.me
+
+  - name: divyaprom2
+    url: https://divyaprom2.glitch.me
+
+  - name: sowmyaprom2
+    url: https://sowmyaprom2.glitch.me
+
+  - name: shruthiprom02
+    url: https://shruthiprom02.glitch.me
+
+  - name: keerthiprom2
+    url: https://keerthiprom2.glitch.me
+
+  - name: nidhiprom2
+    url: https://nidhiprom2.glitch.me
+
+  - name: meghanaprom2
+    url: https://meghanaprom2.glitch.me
+
+  - name: ramyaprom2
+    url: https://ramyaprom2.glitch.me
+
+  - name: arpithaprom2
+    url: https://arpithaprom2.glitch.me
+
+  - name: snehaprom2
+    url: https://snehaprom2.glitch.me
+
   - name: shruthi1
     url: https://shruthi1.glitch.me
-  - name: shruthi2
-    url: https://shruthi2.glitch.me
+
+  - name: kavya1
+    url: https://kavya1.glitch.me
+
+  - name: sneha1
+    url: https://sneha1.glitch.me
+
+  - name: meghana1
+    url: https://meghana1.glitch.me
+
   - name: ramya1
     url: https://ramya1.glitch.me
+
+  - name: nidhi1
+    url: https://nidhi1.glitch.me
+
+  - name: sowmya1
+    url: https://sowmya1.glitch.me
+
+  - name: divya1
+    url: https://divya1.glitch.me
+
+  - name: keerthi1
+    url: https://keerthi1.glitch.me
+
+  - name: kavya4
+    url: https://kavya4.glitch.me
+
+  - name: arpitha1
+    url: https://arpitha1.glitch.me
+
+  - name: divya2
+    url: https://divya2.glitch.me
+
+  - name: sowmya2
+    url: https://sowmya2.glitch.me
+
+  - name: shruthi2
+    url: https://shruthi2.glitch.me
+
+  - name: keerthi2
+    url: https://keerthi2.glitch.me
+
+  - name: nidhi2
+    url: https://nidhi2.glitch.me
+
+  - name: meghana2
+    url: https://meghana2.glitch.me
+
   - name: ramya2
     url: https://ramya2.glitch.me
 
+  - name: arpitha3
+    url: https://arpitha3.glitch.me
+
+  - name: sneha2
+    url: https://sneha2.glitch.me
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: MyStatus
   introTitle: "Hello TG Client"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
