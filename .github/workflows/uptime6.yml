@@ -1,15 +1,15 @@
-name: Uptime CI 5
+name: Uptime CI 6
 
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "10,25,40,55 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
 
 jobs:
   release:
-    name: Check status (Group 5)
+    name: Check status (Group 6)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
