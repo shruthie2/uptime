@@ -107,17 +107,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Home
       href: https://github.com/shruthie2
-
-# Workflow configuration
-workflowSchedule:
-  graphs: "0 0 * * *"       # Generate graphs daily at midnight
-  responseTime: "0 23 * * *" # Update response time stats daily at 11pm
-  staticSite: "0 1 * * *"    # Update static site daily at 1am
-  summary: "0 0 * * *"       # Update summary daily at midnight
-  updateTemplate: "0 0 * * *" # Update template daily at midnight
-  updates: "0 3 * * *"       # Update dependencies daily at 3am
-  uptime: "*/5 * * * *"      # Check uptime every 5 minutes
-
 # Notifications
 notifications:
   email:
