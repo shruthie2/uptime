@@ -7,30 +7,14 @@ on:
     types: [uptime]
   workflow_dispatch:
 
-concurrency:
-  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
-  cancel-in-progress: true
-
 jobs:
   release:
-    name: Status Check Group 2
+    name: Check status (Odd)
     runs-on: ubuntu-latest
-    timeout-minutes: 3
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
       - name: Check endpoint status
-        uses: upptime/uptime-monitor@v1.39.0
-        with:
-          command: "update"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
-        continue-on-error: true
-        id: status_check
-      - name: Retry on failure
-        if: steps.status_check.outcome == 'failure'
         uses: upptime/uptime-monitor@v1.39.0
         with:
           command: "update"
