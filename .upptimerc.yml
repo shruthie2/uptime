@@ -88,16 +88,16 @@ sites:
 status-website:
   # URL path for hosting (since it's GitHub Pages)
   baseUrl: /uptime
-  
+
   # Branding
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TG Client Status
   theme: dark # Options: light, dark, night
-  
+
   # Introduction section
   introTitle: "TG Client Service Status"
   introMessage: "Real-time monitoring dashboard for all TG client services, powered by **Upptime**"
-  
+
   # Navbar links
   navbar:
     - title: Status
@@ -106,6 +106,18 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Home
       href: https://github.com/shruthie2
+
+  # Enhanced status page features
+  features:
+    performanceGraphs: true
+    monthlyUptime: true
+    responseTimeHistogram: true
+    customMetrics:
+      - name: "Peak Hours Performance"
+        hours: [9, 17]  # 9 AM to 5 PM
+      - name: "Off Hours Performance"
+        hours: [0, 8, 18, 23]
+
 # Notifications
 notifications:
   email:
@@ -136,3 +148,26 @@ successStatuses:
 rateLimiting:
   enabled: true
   maxRequests: 60            # Maximum requests per minute
+
+# Enhanced monitoring thresholds
+monitoringThresholds:
+  responseTime:
+    warning: 2000    # Warning if response time exceeds 2s
+    critical: 5000   # Critical if exceeds 5s
+  uptimeTarget: 99.9 # Target uptime percentage
+
+# Performance analytics
+analytics:
+  enabled: true
+  retentionDays: 90
+  aggregation:
+    hourly: true
+    daily: true
+    weekly: true
+
+# Enhanced health checks
+healthChecks:
+  timeout: 30000
+  interval: 300000  # 5 minutes
+  retries: 3
+  expectedStatusCodes: [200, 201, 202, 204]
