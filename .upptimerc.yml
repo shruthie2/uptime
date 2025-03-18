@@ -87,7 +87,7 @@ sites:
 # Status website configuration
 status-website:
   # URL path for hosting (since it's GitHub Pages)
-  baseUrl: /
+  baseUrl: /uptime
   
   # Branding
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
