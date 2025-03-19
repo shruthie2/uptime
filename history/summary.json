@@ -706,17 +706,19 @@
     "url": "https://sneha2.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/sneha2.glitch.me.ico",
     "slug": "sneha2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 214,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2025-03-19": 0
+    }
   }
 ]
