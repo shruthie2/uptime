@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meghanaprom1.glitch.me.ico",
     "slug": "meghanaprom1",
     "status": "up",
-    "uptime": "97.59%",
-    "uptimeDay": "85.08%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.59%",
+    "uptime": "96.83%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "96.83%",
     "time": 253,
     "timeDay": 142,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-03-24": 215
+      "2025-03-24": 285
     }
   },
   {
@@ -223,28 +223,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/sowmyaprom2.glitch.me.ico",
     "slug": "sowmyaprom2",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 311,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {
-      "2025-03-24": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "shruthiprom02",
     "url": "https://shruthiprom02.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/shruthiprom02.glitch.me.ico",
     "slug": "shruthiprom02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,7 +251,9 @@
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   },
   {
     "name": "keerthiprom2",
