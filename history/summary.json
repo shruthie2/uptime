@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meghanaprom1.glitch.me.ico",
     "slug": "meghanaprom1",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.15%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 253,
     "timeDay": 142,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-03-24": 73
+      "2025-03-24": 74
     }
   },
   {
@@ -420,37 +420,39 @@
     "url": "https://meghana1.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/meghana1.glitch.me.ico",
     "slug": "meghana1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 137,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
-    "dailyMinutesDown": {}
+    "time": 227,
+    "timeDay": 287,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   },
   {
     "name": "ramya1",
     "url": "https://ramya1.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/ramya1.glitch.me.ico",
     "slug": "ramya1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 369,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 272,
+    "timeDay": 290,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-03-24": 0
+      "2025-03-24": 1
     }
   },
   {
@@ -548,18 +550,20 @@
     "url": "https://arpitha1.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/arpitha1.glitch.me.ico",
     "slug": "arpitha1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 208,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {}
+    "time": 255,
+    "timeDay": 314,
+    "timeWeek": 255,
+    "timeMonth": 255,
+    "timeYear": 255,
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   },
   {
     "name": "divya2",
