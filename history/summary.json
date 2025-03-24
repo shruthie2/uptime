@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meghanaprom1.glitch.me.ico",
     "slug": "meghanaprom1",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "99.14%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 253,
     "timeDay": 142,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-03-24": 74
+      "2025-03-24": 75
     }
   },
   {
@@ -420,19 +420,19 @@
     "url": "https://meghana1.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/meghana1.glitch.me.ico",
     "slug": "meghana1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 287,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 221,
+    "timeDay": 235,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-03-24": 0
+      "2025-03-24": 1
     }
   },
   {
@@ -441,19 +441,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ramya1.glitch.me.ico",
     "slug": "ramya1",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 290,
     "timeWeek": 272,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2025-03-24": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "nidhi1",
@@ -550,19 +548,19 @@
     "url": "https://arpitha1.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/arpitha1.glitch.me.ico",
     "slug": "arpitha1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 314,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 252,
+    "timeDay": 279,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-03-24": 0
+      "2025-03-24": 1
     }
   },
   {
