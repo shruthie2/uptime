@@ -69,7 +69,9 @@
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   },
   {
     "name": "ramyaprom01",
@@ -166,18 +168,20 @@
     "url": "https://kavyaprom2.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/kavyaprom2.glitch.me.ico",
     "slug": "kavyaprom2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 136,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
-    "dailyMinutesDown": {}
+    "time": 297,
+    "timeDay": 384,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   },
   {
     "name": "arpithaprom1",
