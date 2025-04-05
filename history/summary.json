@@ -69,7 +69,7 @@
     "status": "up",
     "uptime": "46.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.89%",
+    "uptimeWeek": "36.90%",
     "uptimeMonth": "46.82%",
     "uptimeYear": "46.82%",
     "time": 257,
@@ -258,19 +258,19 @@
     "url": "https://sowmyaprom2.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/sowmyaprom2.glitch.me.ico",
     "slug": "sowmyaprom2",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 227,
-    "timeDay": 272,
-    "timeWeek": 226,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 226,
+    "timeDay": 243,
+    "timeWeek": 223,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-04-05": 0,
+      "2025-04-05": 1,
       "2025-04-04": 19
     }
   },
@@ -560,18 +560,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/divya1.glitch.me.ico",
     "slug": "divya1",
     "status": "down",
-    "uptime": "90.09%",
+    "uptime": "90.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.90%",
-    "uptimeMonth": "90.09%",
-    "uptimeYear": "90.09%",
+    "uptimeWeek": "73.88%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "90.08%",
     "time": 638,
     "timeDay": 124,
     "timeWeek": 1376,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-04-05": 1122,
+      "2025-04-05": 1123,
       "2025-04-04": 1440,
       "2025-04-03": 69
     }
@@ -624,7 +624,7 @@
     "status": "up",
     "uptime": "91.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.30%",
+    "uptimeWeek": "77.29%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "91.38%",
     "time": 244,
@@ -634,7 +634,7 @@
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-04-04": 1166,
-      "2025-04-05": 1122
+      "2025-04-05": 1123
     }
   },
   {
@@ -645,7 +645,7 @@
     "status": "up",
     "uptime": "91.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.30%",
+    "uptimeWeek": "77.29%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "91.38%",
     "time": 230,
@@ -655,7 +655,7 @@
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-04-04": 1166,
-      "2025-04-05": 1122
+      "2025-04-05": 1123
     }
   },
   {
@@ -706,7 +706,7 @@
     "status": "up",
     "uptime": "56.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.87%",
+    "uptimeWeek": "36.88%",
     "uptimeMonth": "56.34%",
     "uptimeYear": "56.34%",
     "time": 196,
